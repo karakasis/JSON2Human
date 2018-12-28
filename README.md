@@ -1,6 +1,8 @@
 # JSON2Human
 A Library in Java, that simplifies a JSON file so that a human can read it, with the option to beautify the JSON.
 
+*Get the [library-jar](https://github.com/karakasis/JSON2Human/releases/tag/v1.0), updated December 28th 2018.*
+
 # Methods
  - JSON2Human.toHuman(InputStream json)
  - JSON2Human.beautify(InputStream json)
